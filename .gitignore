@@ -2,6 +2,7 @@ __pycache__
 cronsim.egg-info
 dist
 venv
+.venv
 .*.swp
 .exrc
 .mise.*
